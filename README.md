@@ -160,13 +160,16 @@ Tabla con celdas alineadas
 
 ### Video
 Insertando un video usando HTML
+
 <!-- blank line -->
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/IY3b-JBTELE" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
+
 Alternativa en caso de no poder incrustar el video como el ejemplo anterior. Ejemplo con Youtube. Se llama una imagen del video y se agrega un link al mismo.
+
 
 [![Image alt text](https://img.youtube.com/vi/enMumwvLAug/0.jpg)](https://www.youtube.com/watch?v=enMumwvLAug)
 
